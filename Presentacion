@@ -1,0 +1,19 @@
+Juan Felipe Camacho Castillo - Leonardo Martinez Chavez - Dilan Farid Salinas
+Proyecto 2: Gestor de Tareas Personales
+Enunciado
+Crea una aplicación donde el usuario registre tareas con nombre, prioridad, fecha límite y estado (pendiente, en proceso, completada).
+
+Entidades
+Tarea: nombre, descripción, prioridad, estado, fecha límite
+GestorTareas: lista de tareas y operaciones
+Funcionalidades
+Agregar, editar y eliminar tareas
+Filtrar por estado y ordenarlas por prioridad o fecha
+Persistencia en archivo local
+Aplicar patrón Strategy para ordenar
+Entregables por Semana
+Diseño del modelo de clases e interfaz inicial
+CRUD de tareas con ObservableList
+Implementación de filtros y estrategias de ordenamiento
+Guardado/carga en archivo (JSON o binario)
+Validaciones, estética y documentación
