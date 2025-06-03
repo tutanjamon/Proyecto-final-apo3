@@ -1,0 +1,6 @@
+"Física";"Tarea de 30 ejercicios del libro";Alta;Pendiente;22 05 2025
+"Matemáticas";"Resolver integrales del taller";Media;Pendiente;25 06 2025
+"Historia";"Leer capítulo 4 sobre la revolución francesa";Baja;Completada;10 06 2025
+"Química";"Preparar exposición sobre enlaces químicos";Alta;Pendiente;05 06 2025
+"Inglés";"Escribir ensayo sobre Shakespeare";Media;Pendiente;15 06 2025
+
