@@ -1,0 +1,20 @@
+"Física";"Resolver 30 ejercicios";1;1;3;4;30
+"Inglés";"Escribir ensayo de 500 palabras";3;2;0;5;15
+"pasear al perro";"";2;1;0;0;30
+"Lavar los platos";"Lavar todos los platos sucios";1;1;0;1;0
+"Comprar comida";"Ir al supermercado a comprar verduras";2;1;1;2;0
+"Limpiar la habitación";"Ordenar y limpiar el cuarto";1;1;0;2;30
+"Matemáticas";"Resolver problemas de álgebra";1;1;2;3;0
+"Planchar ropa";"Planchar camisas y pantalones";3;1;0;1;15
+"Preparar almuerzo";"Cocinar arroz y pollo";2;2;0;1;0
+"Pagar facturas";"Pagar la factura de luz y agua";1;1;0;0;45
+"Estudiar historia";"Leer capítulo sobre la Segunda Guerra Mundial";2;1;1;4;30
+"Regar plantas";"Regar todas las plantas del balcón";3;1;0;0;20
+"Llevar al gato al veterinario";"Visita de control anual";1;1;0;3;0
+"Limpiar el baño";"Limpiar lavabo, inodoro y ducha";2;1;0;2;0
+"Programación";"Terminar proyecto Java";1;1;5;6;45
+"Recoger la ropa";"Guardar la ropa limpia en el armario";3;2;0;1;0
+"Hacer ejercicio";"Correr 5 kilómetros";2;1;0;1;0
+"Comprar medicamento";"Comprar vitaminas y analgésicos";1;1;0;0;30
+"Limpiar el coche";"Aspirar y lavar el coche";3;1;0;3;0
+"Lenguaje";"terminar de leer libro";2;1;0;0;50
